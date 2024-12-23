@@ -1,6 +1,6 @@
 <?php
 
-define( 'BENZER_THEME_VERSION', '12.9' );
+define( 'BENZER_THEME_VERSION', '13.0' );
 
 function benzer_css() {
 	$parent_style = 'specia-parent-style';
